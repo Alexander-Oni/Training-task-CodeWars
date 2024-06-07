@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sentence_Smash", "Sentence_Smash.csproj", "{9F7DD79B-63A4-432A-8E97-C25DDAB13BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F7DD79B-63A4-432A-8E97-C25DDAB13BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7DD79B-63A4-432A-8E97-C25DDAB13BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7DD79B-63A4-432A-8E97-C25DDAB13BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7DD79B-63A4-432A-8E97-C25DDAB13BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6498C8A-D80F-4F11-9519-30B1F2801826}
+	EndGlobalSection
+EndGlobal
