@@ -1,0 +1,1 @@
+There will be published 8 kyu kata from CodeWars
